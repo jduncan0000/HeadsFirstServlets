@@ -2,7 +2,7 @@
 
 <html>
 <body>
-<h1 align="center">Beer Recommendations JSP</h1>
+<h1 align="center">Beer Recommendations JSP By J</h1>
 <p>
 
 <%
